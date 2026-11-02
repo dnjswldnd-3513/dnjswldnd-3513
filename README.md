@@ -14,9 +14,4 @@
 
 **프로젝트**
 
-| 프로젝트 | 설명 |
-|---|---|
-| [KOIN_API_V2](https://github.com/BCSDLab/KOIN_API_V2) | BCSD Lab 학교 생활 플랫폼 KOIN 백엔드 (팀) |
-| [dopamine-detox](https://github.com/dnjswldnd-3513/dopamine-detox) | 숏폼 사용 시간 추적·알림·랭킹 앱 백엔드 (Spring Security, JWT) |
-| [Board_Backend](https://github.com/dnjswldnd-3513/Board_Backend) | 게시판 CRUD REST API |
-| [spring-roomescape-playground](https://github.com/dnjswldnd-3513/spring-roomescape-playground) | Spring 학습 미션 (방탈출 예약) |
+- [KOIN_API_V2](https://github.com/BCSDLab/KOIN_API_V2): BCSD Lab 학교 생활 플랫폼 KOIN 백엔드 (팀)
